@@ -11,5 +11,10 @@
             "email": "specialsnipe@mail.ru"
         }
     ],
-    "require": {}
+    "description": "hexlet php-package",
+    "license": "MIT",
+    "require": {},
+    "bin": [
+	"bin/brain-games"
+    ]
 }
