@@ -26,7 +26,8 @@ function run()
             }
             line("'%s' is wrong answer ;(. Correct answer was '%s'", $answer, $correct);
             line("Let's try again, %s!", $name);
-            break;
+            return false;
         }
     }
+    line("Congratulations,%s!", $name);
 }
