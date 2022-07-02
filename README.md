@@ -8,3 +8,7 @@ brain-calc game: \
 <a href =https://asciinema.org/a/1XshlmMWZu8eFT1JppiZ0Kwxf>Demo brain-even</a> \
 brain-gcd game: \
 <a href =https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn>Demo brain-gcd</a>
+
+<p>This is some text.</p>
+<script src="https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn" async></script>
+<p>This is some other text.</p>
