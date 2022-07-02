@@ -7,6 +7,4 @@ brain-even game: \
 brain-calc game: \
 <a href =https://asciinema.org/a/1XshlmMWZu8eFT1JppiZ0Kwxf>Demo brain-even</a> \
 brain-gcd game: \
-<a href =https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn>Demo brain-gcd</a>
-
-[![asciicast](https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn)](https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn)
+[![asciicast](https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn.svg)](https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn)
