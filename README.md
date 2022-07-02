@@ -9,6 +9,4 @@ brain-calc game: \
 brain-gcd game: \
 <a href =https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn>Demo brain-gcd</a>
 
-<p>This is some text.</p>
-<script src="https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn" async></script>
-<p>This is some other text.</p>
+[![asciicast](https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn)](https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn)
