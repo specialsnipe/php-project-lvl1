@@ -5,6 +5,6 @@
 brain-even game: \
 <a href ="https://asciinema.org/a/2TrFsifP9bzK8p1mgxF072py1">Demo brain-even</a> \
 brain-calc game: \
-<a href =https://asciinema.org/a/1XshlmMWZu8eFT1JppiZ0Kwxf>Demo brain-even</a>
+<a href =https://asciinema.org/a/1XshlmMWZu8eFT1JppiZ0Kwxf>Demo brain-even</a> \
 brain-gcd game: \
 <a href =https://asciinema.org/a/eckIoSQqYVtwMwWQdlqdnJEnn>Demo brain-gcd</a>
