@@ -10,3 +10,5 @@ brain-even:#Проверка на четность
 	./bin/brain-even
 brain-calc:#Калькулятор
 	./bin/brain-calc
+brain-gcd:#НОД
+	./bin/brain-gcd

@@ -3,6 +3,7 @@
 namespace Snipe\Calc;
 
 use function Snipe\Engine\run;
+
 use const Snipe\Engine\ROUNDS_COUNT;
 
 const DESCRIPTION = 'What is the result of the expression?';
@@ -20,6 +21,7 @@ function calculate($operator, $firstNumber, $secondNumber)
             throw new \Exception("Unknown operation symbol {$operator}");
     }
 }
+
 function runGame()
 {
     $operatorArr = ['+', '-', '*'];
@@ -29,7 +31,7 @@ function runGame()
         $firstNumber = mt_rand(1, 15);
         $secondNumber = mt_rand(1, 15);
         $expression = "{$firstNumber} {$operator} {$secondNumber}";
-        $rightAnswer = (string) calculate($operator, $firstNumber, $secondNumber);
+        $rightAnswer = (string)calculate($operator, $firstNumber, $secondNumber);
         $gameData[] = [$expression, $rightAnswer];
     }
     run(DESCRIPTION, $gameData);
