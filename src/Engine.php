@@ -25,5 +25,5 @@ function run($description, $gameData)
             return;
         }
     }
-    line("Congratulations,%s!", $name);
+    line("Congratulations, %s!", $name);
 }
