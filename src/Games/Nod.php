@@ -11,6 +11,7 @@ const DESCRIPTION = 'Find the greatest common divisor of given numbers.';
 function findDivisor(int $firstNumber, int $secondNumber)
 {
     $min = min($firstNumber, $secondNumber);
+    $result = null;
     for ($i = 1; $i <= $min; $i++) {
         if ($firstNumber % $i === 0 && $secondNumber % $i === 0) {
             $result = $i;
