@@ -6,7 +6,7 @@ Description: https://ru.hexlet.io/professions/php/projects/45
 <a href="https://codeclimate.com/github/specialsnipe/php-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/c51e3eb8ec73b646e595/maintainability" /></a>
 
 ## How To Install
-`composer global require specialnipe/code`
+`composer global require specialsnipe/code:main-dev@dev`
 ## How To Run A Game
 run `brain-game` and then type game name
 ## Games List With Description
