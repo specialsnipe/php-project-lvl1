@@ -14,3 +14,5 @@ brain-gcd:#НОД
 	./bin/brain-gcd
 brain-progression:# Прогрессия
 	./bin/brain-progression
+brain-prime:# Простое ли число
+	./bin/brain-prime
