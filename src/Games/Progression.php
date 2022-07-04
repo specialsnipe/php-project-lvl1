@@ -24,7 +24,8 @@ function runGame()
                 $number += $iteration;
             } else {
                 $result = "{$result}{$number} ";
-                $number += $iteration;}
+                $number += $iteration;
+            }
         }
         $expression = $result;
         $rightAnswer = (string)$rightNumber;
