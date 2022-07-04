@@ -8,7 +8,7 @@ Description: https://ru.hexlet.io/professions/php/projects/45
 ## How To Install
 `composer global require specialnipe/code`
 ## How To Run A Game
-run `make brain-` and then type game name
+run `brain-game` and then type game name
 ## Games List With Description
 1. *calc*\
    Find the result of the expression.
