@@ -1,5 +1,5 @@
 {
-    "name": "snipe/code",
+    "name": "specialnipe/code",
     "autoload": {
         "psr-4": {
             "Hexlet\\Code\\": "src/"
