@@ -17,7 +17,8 @@ function runGame()
         $length = mt_rand(5, 10);
         $iteration = mt_rand(1, 5);
         $hiddenNumber = mt_rand(1, $length);
-        for ($j = 0; $j <= $length; $j++) {
+        $rightNumber = null;
+        for ($j = 1; $j <= $length; $j++) {
             if ($j === $hiddenNumber) {
                 $result = "{$result}.. ";
                 $rightNumber = $number;

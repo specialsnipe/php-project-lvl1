@@ -8,7 +8,7 @@ use const Snipe\Engine\ROUNDS_COUNT;
 
 const DESCRIPTION = 'Find the greatest common divisor of given numbers.';
 
-function findDivisor($firstNumber, $secondNumber)
+function findDivisor(int $firstNumber, int $secondNumber)
 {
     $min = min($firstNumber, $secondNumber);
     for ($i = 1; $i <= $min; $i++) {
