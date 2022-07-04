@@ -1,8 +1,8 @@
 {
-    "name": "specialnipe/code",
+    "name": "hexlet/code",
     "autoload": {
         "psr-4": {
-            "specialsnipe\\Code\\": "src/"
+            "Hexlet\\Code\\": "src/"
         },
     	"files": [
           "src/Games/Cli.php",
