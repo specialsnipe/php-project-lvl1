@@ -12,3 +12,5 @@ brain-calc:#Калькулятор
 	./bin/brain-calc
 brain-gcd:#НОД
 	./bin/brain-gcd
+brain-progression:# Прогрессия
+	./bin/brain-progression
