@@ -14,7 +14,7 @@ function run($description, $gameData)
     line("Hello, %s!", $name);
     line($description);
     foreach ($gameData as [$question, $rightAnswer]) {
-        line("Question:{$question}");
+        line("Question: {$question}");
         $userAnswer = prompt('Your answer');
 
         if ($userAnswer === $rightAnswer) {
